@@ -4,7 +4,7 @@
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=samruddhi-coder alt=samruddhi/> </p> </br>
 
 
-**Kindly, have a look on my profile**.
+**Kindly, have a look at my profile**.
 
 
 - 🎓 I'm currently a B.Tech Student of Computer Engineering (**Graduation year: 2022**)
