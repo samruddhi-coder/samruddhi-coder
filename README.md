@@ -1,19 +1,19 @@
 
 
-### Hello coders, I'm [Samruddhi !!](https://github.com/samruddhi-coder) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### 💻 Hello coders, I'm [Samruddhi !!](https://github.com/samruddhi-coder) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=samruddhi-coder alt=samruddhi/> </p> </br>
 
 
 **Kindly, have a look on my profile**.
 
 
-- 🎓 I'm currently a B.Tech Student of Computer Engineering (Graduation year: 2022)
+- 🎓 I'm currently a B.Tech Student of Computer Engineering (**Graduation year: 2022**)
 - 🔭 I’m currently working on AI/ML , Web based Projects
 - 🌱 I’m currently learning Cloud computing and Advance NLP
 - 💬 Ask me about web and android based stuffs
-- 💻 Interests : ML-AI, NLP, Cloud Computing ,Web Development, Android Dev
+- 💻 **Interests** : ML-AI, NLP, Cloud Computing ,Web Development, Android Dev
 - 📧 Reach me at **desaisamruddhi99@gmail.com**  
-- 📨 Ask me about anything [here](https://github.com/samruddhi-coder/samruddhi-coder/issues)
+- 📨 Ask me about anything [**here**](https://github.com/samruddhi-coder/samruddhi-coder/issues) 👈 
 
 
 <br />
@@ -69,6 +69,7 @@
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=samruddhi-coder&show_icons=true alt=samruddhi /> </p>
 
+</br>
 <a href="https://github.com/samruddhi-coder">
  <p align="center">  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samruddhi-coder&theme=tokyonight&layout=compact&" />
 </a>
