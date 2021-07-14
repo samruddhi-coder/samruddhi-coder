@@ -25,7 +25,7 @@
   <img align="left" alt="Samruddhi's | Lin" height="30px" width="100px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
                                   
-<a href="https://twitter.com/anuraghazru">
+<a href="https://twitter.com/Samru2000">
   <img align="left" alt="Samruddhi's | Twitter" height="30px" width="100px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white "/>
 </a>
 
