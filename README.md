@@ -1,7 +1,7 @@
 
 
 ### 💻 Hello coders, I'm [Samruddhi !!](https://github.com/samruddhi-coder) <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=samruddhi-coder alt=samruddhi/> </p> </br>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=samruddhi-coder alt=samruddhi/> </p>
 
 
 **Kindly, have a look at my profile**.
