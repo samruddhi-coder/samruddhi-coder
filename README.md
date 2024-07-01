@@ -7,11 +7,12 @@
 **Kindly, have a look at my profile**.
 
 
-- 🎓 I'm currently a B.Tech Student of Computer Engineering (**Graduation year: 2022**)
-- 🔭 I’m currently working on AI/ML , Web based Projects
-- 🌱 I’m currently learning Cloud computing and Advance NLP
-- 💬 Ask me about web and android based stuffs
-- 💻 **Interests** : ML-AI, NLP, Cloud Computing ,Web Development, Android Dev
+- 🎓 I'm graduate as a B.Tech Student of Computer Engineering (**Graduation year: 2022**)
+- Profesional experience in IAM domain for providing access to end users using IAM tools and AWS.
+- 🔭 I have worked on AI/ML , Web based Projects
+- 🌱 I’m currently learning Cloud computing and IAM tools
+- 💬 Ask me about web, android and IAM based stuffs.
+- 💻 **Interests** :  Cloud Computing ,Web Development, Android Development, IAM management
 - 📧 Reach me at **desaisamruddhi99@gmail.com**  
 - 📨 Ask me about anything [**here**](https://github.com/samruddhi-coder/samruddhi-coder/issues) 👈 
 
