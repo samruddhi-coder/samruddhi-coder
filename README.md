@@ -7,12 +7,13 @@
 **Kindly, have a look at my profile**.
 
 
-- 🎓 I'm graduate as a B.Tech Student of Computer Engineering (**Graduation year: 2022**)
-- Profesional experience in IAM domain for providing access to end users using IAM tools and AWS.
-- 🔭 I have worked on AI/ML , Web based Projects
-- 🌱 I’m currently learning Cloud computing and IAM tools
-- 💬 Ask me about web, android and IAM based stuffs.
-- 💻 **Interests** :  Cloud Computing ,Web Development, Android Development, IAM management
+- 🎓 I'm graduated as a B.Tech degree in Computer Engineering (**Graduation year: 2022**)
+- 💻Profesional 3+ yrs experience in Backend development & Identity & Access Management (IAM)
+- Skilled in designing scalable server-side solutions using Node.js, Mongo DB, Express.js with hands-on expertise in Active Directory, IBM ISIM, TDI and LDAP.
+- Proven ability to reduce vulnerabilities by 25% and cut onboarding time by 35% for Fortune clients.
+- 🔭 I have worked on Web based & Android Projects
+- 💬 Ask me about Web, Android and IAM based stuffs.
+- 💻 **Interests** :  Web & Backend Development, IAM tech-stack, Android Development
 - 📧 Reach me at **desaisamruddhi99@gmail.com**  
 - 📨 Ask me about anything [**here**](https://github.com/samruddhi-coder/samruddhi-coder/issues) 👈 
 
